@@ -66,3 +66,21 @@ Desenvolvo automações em Python para reduzir tarefas manuais e aumentar a efic
 Meu foco é criar soluções simples, estáveis e eficientes, unindo conhecimento técnico com visão de negócio.
 
 Busco desenvolver ferramentas que resolvem problemas reais, melhoram processos, reduzem retrabalho e aproximam a tecnologia das necessidades operacionais da empresa.
+
+
+<h2 align="center">Minhas contribuições</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/matheusapc/matheusapc/output/pacman-contribution-graph-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/matheusapc/matheusapc/output/pacman-contribution-graph.svg"
+  >
+  <img
+    alt="Pac-Man comendo minhas contribuições"
+    src="https://raw.githubusercontent.com/matheusapc/matheusapc/output/pacman-contribution-graph.svg"
+  >
+</picture>
