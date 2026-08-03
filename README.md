@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Matheus Augusto Proença Correa
 
-Sou **Supervisor de TI** e desenvolvedor com foco em **Delphi**, **Python**, **banco de dados**, **automação de processos** e **melhoria contínua**.
+Sou **Lider de TI (VX360)** e desenvolvedor com foco em **Delphi**, **Python**, **banco de dados**, **automação de processos** e **melhoria contínua**.
 
-Atuo há mais de **6 anos** no ambiente corporativo e há cerca de **3 anos** desenvolvendo soluções voltadas para sistemas internos, automações, personalizações e otimização de processos.
+Atuo há mais de **6 anos** no ambiente corporativo e há cerca de **4 anos** desenvolvendo soluções voltadas para sistemas internos, automações, personalizações e otimização de processos.
 
 ## 🚀 Sobre mim
 
@@ -31,7 +31,7 @@ Meu objetivo é apoiar as áreas na melhoria dos fluxos, reduzindo retrabalho, a
 
 ## 🏢 Experiência com áreas de negócio
 
-Já participei da criação de mais de **30 projetos**, envolvendo áreas como:
+Já participei da criação de mais de **50 projetos**, envolvendo áreas como:
 
 * Financeiro
 * Fiscal
